@@ -3,6 +3,8 @@
 > A production website built for a podology clinic in Wiry near Poznań, Poland.  
 > **Live site:** [podologiaholistycznie.pl](https://podologiaholistycznie.pl)
 
+<img width="1286" height="888" alt="ph-home" src="https://github.com/user-attachments/assets/a88dc57b-9a84-4474-8ba2-8d1a8c4d4d5e" />
+
 ---
 
 ## Overview
@@ -107,6 +109,16 @@ src/content/
 ## Note on Source Code
 
 This is a client project — the full source code is not publicly available. This repository serves as a case study. If you'd like to discuss the implementation in more detail, feel free to reach out.
+
+---
+
+## Screenshots
+
+<img width="1286" height="888" alt="ph-location" src="https://github.com/user-attachments/assets/f3d3326b-1bac-481c-927f-e45bbd5cecbd" />
+
+<img width="1286" height="785" alt="ph-footer" src="https://github.com/user-attachments/assets/e89c78b9-517f-43c5-950e-8b49050b1f88" />
+
+<img width="1286" height="838" alt="ph-services" src="https://github.com/user-attachments/assets/84f5e6e6-4436-4cb9-abeb-51938f4a3e63" />
 
 ---
 
