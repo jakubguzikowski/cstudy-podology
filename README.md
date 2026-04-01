@@ -115,6 +115,6 @@ This is a client project — the full source code is not publicly available. Thi
 Interested in working together or want to see more?  
 Check out my other projects or get in touch.
 
-jakubguzikowski.dev
-contact@jakubguzikowski.dev
-linkedin.com/in/jakubguzikowski
+- jakubguzikowski.dev
+- contact@jakubguzikowski.dev
+- linkedin.com/in/jakubguzikowski
