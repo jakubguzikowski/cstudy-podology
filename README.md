@@ -67,7 +67,7 @@ Scroll-triggered entrance animations using a lightweight custom implementation â
 
 | Layer | Choice | Why |
 |---|---|---|
-| Framework | Next.js 15 (App Router) | SSG output, image optimization, font optimization |
+| Framework | Next.js 16 (App Router) | SSG output, image optimization, font optimization |
 | Language | TypeScript | Type-safe content layer and component props |
 | Styling | SCSS Modules | Scoped styles, no runtime overhead, full control |
 | Font | Gantari (Google Fonts via `next/font`) | Zero layout shift, self-hosted automatically |
